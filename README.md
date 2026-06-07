@@ -31,9 +31,6 @@ Real-Time Monitoring: Continuous security monitoring with alerts.
 
 Alert Management: Centralized security alert management Installation.
 
-Clone the repository:
-git clone https://github.com/Dhanushram2209/MIT-Hackathon
-
 Install dependencies:
 pip install -r requirements.txt
 
